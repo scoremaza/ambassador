@@ -7,7 +7,7 @@ Here we have an application that requires a little setup before starting. Follow
 
 **Steps**
 
-1. First you need to install [Docker] (https://www.docker.com/) you can do so at the link provied 
+1. First you need to install [Docker](https://www.docker.com/) you can do so at the link provied 
 2. Next you will be required to type `make build` that is if you have Mac. If you have Windows you are required to install make
 
 **Steps For Windows Installing Make**

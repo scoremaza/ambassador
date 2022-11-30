@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "."
+		},
+		{
+			"name": "requirements",
+			"path": "../../../templates/django-ambassador-main/requirements"
+		}
+	],
+	"settings": {}
+}
